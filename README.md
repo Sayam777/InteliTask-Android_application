@@ -5,7 +5,7 @@ Android task management app with Admin/Intern roles, real-time updates & push no
 ## Tech Stack
 - Kotlin + MVVM Architecture
 - Firebase Firestore, Auth, FCM, Storage
-- Material Design 3 — Dark Theme
+- Material Design 3 - Dark Theme
 
 ## Features
 - Role-based access (Admin / Intern)
