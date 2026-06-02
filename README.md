@@ -1,4 +1,4 @@
-# InteliTask — Smart Task Manager
+# InteliTask - Smart Task Manager
 
 Android task management app with Admin/Intern roles, real-time updates & push notifications.
 
